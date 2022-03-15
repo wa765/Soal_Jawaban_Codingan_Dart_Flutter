@@ -1,16 +1,5 @@
-# widget_component
+# Tugas Flutter widget_component
 
-A new Flutter project.
+## Hasil Output
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="960" alt="2022-03-12 (2)" src="https://user-images.githubusercontent.com/74824846/158006618-4cfcb445-6a58-46e0-9095-68699c79f1dd.png">
